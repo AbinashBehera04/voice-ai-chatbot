@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+sounddevice
+soundfile
+numpy
+wikipedia
+pyjokes
+psutil
+pyautogui
+opencv-python
